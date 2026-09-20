@@ -1,0 +1,69 @@
+version: 1
+title: 'Tao''s Story Garden: Adding Feet to a Snake'
+slug: translation-42-en-1b80df
+summary: Ahe finishes his snake first, then decides it needs feet. While Tao carefully
+  finishes her tail, his picture becomes something else. Six illustrated scenes about
+  imagination, purpose, and knowing when to put down the brush.
+cover_color: '#458f87'
+cover_asset: assets/910b81af6af17d6382c4f0a87ad2d77e93a2e06f40246ebbdc559b8d0ef4cd7b.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: en
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: 9209871f1d44a916f5eb3e0bcac871015a465f8e43686f2f9616f90c62a0a181
+  source_novel_id: 42
+  source_slug: novel-ffc97f0b-0aa517
+  source_title: 小桃的成語小院：畫蛇添足
+  source_version_id: 80
+  target_language: en
+  translator: Humanread Founder
+chapters:
+- id: 773
+  title: Today's Picture
+  position: 1
+  file: chapters/0001-773.html
+  format: sandbox-html-css
+  share_card: null
+- id: 774
+  title: The First Brush to Stop
+  position: 2
+  file: chapters/0002-774.html
+  format: sandbox-html-css
+  share_card: null
+- id: 775
+  title: Two Feet, Then Two More
+  position: 3
+  file: chapters/0003-775.html
+  format: sandbox-html-css
+  share_card: null
+- id: 776
+  title: Side by Side
+  position: 4
+  file: chapters/0004-776.html
+  format: sandbox-html-css
+  share_card: null
+- id: 777
+  title: Nobody Asked It to Run
+  position: 5
+  file: chapters/0005-777.html
+  format: sandbox-html-css
+  share_card: null
+- id: 778
+  title: Keep This Picture Too
+  position: 6
+  file: chapters/0006-778.html
+  format: sandbox-html-css
+  share_card: null
